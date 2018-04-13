@@ -1,0 +1,41 @@
+/*
+* @Author: lenovo
+* @Date:   2018-04-13 13:52:37
+* @Last Modified by:   lenovo
+* @Last Modified time: 2018-04-13 20:20:50
+*/
+
+* {
+    margin: 0%;
+    padding: 0%;
+}
+
+.inner {
+    margin: 1%;
+    width: 31%;
+    padding-bottom: 31%;
+    background-color: orange;
+    float: left;
+    border-radius: 8%;
+}
+
+.button {
+    float: left;
+    margin: 1%;
+    background-color: white;
+    width: 98%;
+    border: solid orange 2px;
+    text-align: center;
+    color: orange;
+    text-decoration: none;
+}
+
+
+a:hover {
+    color: white;
+    background-color: orange;
+}
+
+a:active {
+    color: white;
+}
